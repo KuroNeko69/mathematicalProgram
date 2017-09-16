@@ -1,0 +1,10 @@
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\bin\Debug\mathematicalProgram.exe.config
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\bin\Debug\mathematicalProgram.exe
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\bin\Debug\mathematicalProgram.pdb
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.csprojResolveAssemblyReference.cache
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.Properties.Resources.resources
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.csproj.GenerateResource.Cache
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.exe
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.pdb
+C:\Users\Terax\source\repos\mathematicalProgram\mathematicalProgram\obj\Debug\mathematicalProgram.BiCo.resources
